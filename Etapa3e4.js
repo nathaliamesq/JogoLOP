@@ -42,3 +42,4 @@ function draw() {
        disparou = false;  
     }   
   } 
+}
